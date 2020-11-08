@@ -2,11 +2,11 @@
 Used pandas, OS for analysing the sales data. It is a combined file of 12 separate files in one .CSV file.
 
 
-#Cleaning Data:
+**Cleaning Data**:
   * Drop rows of NaN
   * Find and remove 'Or'
 
-#Tasks done:
+**Tasks done**:
   T1: Add month column
   T2: Add sales column
   T3: Add a city column
