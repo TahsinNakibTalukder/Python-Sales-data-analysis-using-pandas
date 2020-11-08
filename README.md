@@ -3,8 +3,8 @@ Used pandas, OS for analysing the sales data. It is a combined file of 12 separa
 
 
 #Cleaning Data:
-  1. Drop rows of NaN
-  2. Find and remove 'Or'
+  * Drop rows of NaN
+  * Find and remove 'Or'
 
 #Tasks done:
   T1: Add month column
